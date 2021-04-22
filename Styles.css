@@ -1,0 +1,26 @@
+/* CSS */
+/* SELECTOR DE ETIQUETAS */
+h1{
+    color: rgb(255, 0, 119); font-size: 50px;
+}
+img {
+    width: 500px;
+    
+}
+table,th,td{
+    border: 3px solid purple;
+}
+form{
+    background-color: purple;
+    color: wheat;
+    text-align: center;
+}
+/*ol : lista ordenada*/
+/* SELECTOR DE ID */
+#boton{
+    color: white;
+    background-color: black;
+    border-color: red;
+    
+
+}
