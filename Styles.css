@@ -1,5 +1,8 @@
 /* CSS */
 /* SELECTOR DE ETIQUETAS */
+body{
+    background: turquoise;
+}
 h1{
     color: rgb(255, 0, 119); font-size: 50px;
 }
@@ -21,6 +24,24 @@ form{
     color: white;
     background-color: black;
     border-color: red;
-    
+}
+/*#cajaNombre{
+    margin-bottom: 15px;
 
+}
+#cajaApellido{
+    margin-bottom: 15px;
+}
+#cajaEmail{
+    margin-bottom: 15px;
+}*/
+
+/* Selector de clases */
+
+.margenAbajo{
+    margin-bottom: 20px;
+}
+.cajaNegra{
+    background: black;
+    color: white;
 }
