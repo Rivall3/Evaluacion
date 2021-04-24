@@ -1,0 +1,15 @@
+h1{
+    font-size: 65px;
+}
+.margenAbajo{
+    margin-bottom: 25px;
+}
+.TamañoLetra{
+    font-size: 25px;
+}
+.TamañoLetraRadiobutton{
+    font-size: 25px;
+}
+body{
+    background: rgb(164, 219, 164);
+}
