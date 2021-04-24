@@ -13,3 +13,8 @@ h1{
 body{
     background: rgb(164, 219, 164);
 }
+.checkbox{
+    padding-left: 1.3em;
+    position:relative;
+    
+}
